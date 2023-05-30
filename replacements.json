@@ -1,5 +1,10 @@
 [
     {
+        "ReplacementName":"TimeGenerated1d",
+        "ReplacementValueScriptBlock":"(Get-Date).ToUniversalTime().AddSeconds(-1*(Get-Random(86400))).ToString(\"yyyy-MM-ddTHH:mm:ssZ\")",
+        "ReplacementValue":""
+    },
+    {
         "ReplacementName":"TimeGenerated1h",
         "ReplacementValueScriptBlock":"(Get-Date).ToUniversalTime().AddSeconds(-1*(Get-Random(3600))).ToString(\"yyyy-MM-ddTHH:mm:ssZ\")",
         "ReplacementValue":""
