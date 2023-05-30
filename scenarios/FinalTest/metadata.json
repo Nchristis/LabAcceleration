@@ -1,5 +1,5 @@
 {
-	"Message":"Final testing tor & rag",
+	"Message":"Final testing tor & rag maar nu egt",
 	"ID":"100",
 	"RunCount":"1",
 	"Replacements":
@@ -11,6 +11,7 @@
 		}
 	],
 	"Files":[
-		"ABAPAuditLog.AU1"
+		"ABAPAuditLog.AU1",
+		"ABAPAuditLog.AU2
 	]
 }
