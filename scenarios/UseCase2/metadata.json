@@ -10,7 +10,6 @@
 		}
 	],
 	"Files":[
-		"ABAPTableDataLog.1",
-    "ABAPAuditLog.AU1"
+		"ABAPTableDataLog.1", "ABAPAuditLog.AU1"
 	]
 }
