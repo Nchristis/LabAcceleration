@@ -1,0 +1,16 @@
+{
+	"Message":"Send a login of a user and a possible RFC call from test to production",
+	"ID":"1",
+	"RunCount":"1",
+	"Replacements":[
+		{
+			"ReplacementName":"ServiceName",
+			"ReplacementValueScriptBlock":"@(\"PING\",\"INFO\",\"ES\") | Get-Random",
+			"ReplacementValue":""
+		}
+	],
+	"Files":[
+		"ABAPTableDataLog.1",
+    "ABAPAuditLog.AU1"
+	]
+}
