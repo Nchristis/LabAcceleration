@@ -1,5 +1,5 @@
 {
-	"Message":"Send a login of a user and a possible RFC call from test to production",
+	"Message":"Send a login of a default user, creating a new sapuser, giving them some permissions and afterwards possible RFC call from test to production. afterwards PA logs are needed",
 	"ID":"1",
 	"RunCount":"1",
 	"Replacements":[
