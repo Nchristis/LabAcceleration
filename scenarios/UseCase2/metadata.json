@@ -1,5 +1,5 @@
 {
-	"Message":"SapNewUser is logging in and afterwards possible RFC call from test to production. afterwards PA logs are needed",
+	"Message":"newUser is logging in and afterwards possible RFC call from test to production. via rfc they download information from sensitive table",
 	"ID":"1",
 	"RunCount":"1",
 	"Replacements":[
